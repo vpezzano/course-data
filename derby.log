@@ -1,10 +1,10 @@
 ----------------------------------------------------------------
-Tue Jul 10 12:53:07 CEST 2018:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0164-83d2-ca84-00001b58be98 
-on database directory memory:C:\Users\Valentino\Documents\workspace-sts-3.9.3.RELEASE\course-data\testdb with class loader org.springframework.boot.loader.LaunchedURLClassLoader@1d56ce6a 
-Loaded from jar:file:/C:/Users/Valentino/Documents/workspace-sts-3.9.3.RELEASE/course-data/target/course-data-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/derby-10.14.1.0.jar!/
+Thu Aug 23 09:12:19 CEST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0165-65a0-748d-000009767ad0 
+on database directory memory:C:\Users\Valentino\Documents\workspace-sts-3.9.3.RELEASE\course-data\testdb with class loader sun.misc.Launcher$AppClassLoader@6bc7c054 
+Loaded from file:/C:/Users/Valentino/.m2/repository/org/apache/derby/derby/10.14.1.0/derby-10.14.1.0.jar
 java.vendor=Oracle Corporation
-java.runtime.version=1.8.0_151-b12
+java.runtime.version=1.8.0_144-b01
 user.dir=C:\Users\Valentino\Documents\workspace-sts-3.9.3.RELEASE\course-data
 os.name=Windows 10
 os.arch=amd64
